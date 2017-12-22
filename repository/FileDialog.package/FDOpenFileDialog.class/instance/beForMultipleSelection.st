@@ -1,0 +1,3 @@
+public
+beForMultipleSelection
+	self filesList beMultipleSelection
